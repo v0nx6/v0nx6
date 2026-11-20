@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A6E3A1&center=true&vCenter=true&width=400&height=40&lines=root%40vonxcc%3A~%23" alt="Terminal Prompt" />
 
@@ -17,6 +17,7 @@
 <h3><code>$ cat profile.json</code></h3>
 
 <pre><code>{
+  "about": "only student who are interest in becoming backend engginers and cyber security",
   "fun_fact": "I like cat 😸"
 }</code></pre>
 
@@ -43,6 +44,19 @@
 
 <hr>
 
+<h3><code>$ fastfetch</code></h3>
+
+<pre>
+ /\_/\
+( o.o )    OS          EndeavourOS x86_64
+ > ^ <     KERNEL      Linux 7.2.15-arch1-1
+           SHELL       zsh 5.9.2
+           TERMINAL    Alacritty 0.17.0
+           DESKTOP     KWin (Wayland)
+</pre>
+
+<hr>
+
 <h3><code>$ ls languages-and-tools/</code></h3>
 
 <div align="left">
@@ -61,5 +75,9 @@
 <hr>
 
 <div align="center">
-<sub><code>root@vonxcc:~# echo "Never stop learning."</code></sub>
+
+<h2><code>root@vonxcc:~# echo "Never stop learning."</code></h2>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-A6E3A1?style=for-the-badge&labelColor=1E1E2E" alt="Learning everyday"/>
+
 </div>
