@@ -12,7 +12,7 @@
 
 <table width="100%">
 <tr>
-<td width="46%" valign="top">
+<td width="60%" valign="top">
 
 <h3><code>$ cat profile.json</code></h3>
 
@@ -23,9 +23,9 @@
 
 </td>
 
-<td width="8%">&nbsp;</td>
+<td width="5%">&nbsp;</td>
 
-<td width="46%" valign="top">
+<td width="50%" valign="top">
 
 <h3>Connect with me:</h3>
 
