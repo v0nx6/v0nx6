@@ -12,7 +12,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="46%" valign="top">
 
 <h3><code>$ cat profile.json</code></h3>
 
@@ -22,7 +22,10 @@
 }</code></pre>
 
 </td>
-<td width="50%" valign="top">
+
+<td width="8%">&nbsp;</td>
+
+<td width="46%" valign="top">
 
 <h3>Connect with me:</h3>
 
@@ -52,7 +55,6 @@
  > ^ <     KERNEL      Linux 7.2.15-arch1-1
            SHELL       zsh 5.9.2
            TERMINAL    Alacritty 0.17.0
-           DESKTOP     KWin (Wayland)
 </pre>
 
 <hr>
