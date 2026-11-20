@@ -1,90 +1,138 @@
-```markdown
+````markdown
 <div align="center">
 
-<h1>hello im vonxcc</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=39D353&vCenter=true&width=400&height=40&lines=root%40vonxcc%3A~%23" alt="Terminal Prompt" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=850&lines=only+student+who+are+interest+in+becoming+backend+engginers+and+cyber+security" alt="Typing SVG" />
+<h2 align="left">Welcome to my profile.</h2>
 
-<br>
+<p align="left">
+  <sub>only student who are interest in becoming backend engginers and cyber security</sub>
+</p>
 
-<img src="https://img.shields.io/badge/PROFILE-SECURITY%20%2F%20DEVELOPER-CBA6F7?style=for-the-badge&labelColor=1E1E2E" alt="Profile" />
+<hr>
 
 </div>
 
-<br>
+### <code>$ cat profile.json</code>
 
-<h3 align="left">
-  <code>~/about-me</code>
-</h3>
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td bgcolor="#111a22">
 
-```bash
-root@vonxcc:~$ cat about.txt
-
-⚡ Fun fact: I like cat 😸
+```json
+{
+  "about": "only student who are interest in becoming backend engginers and cyber security",
+  "fun_fact": "I like cat 😸"
+}
 ```
 
+</td>
+</tr>
+</table>
+
+### TECHNOLOGY & TOOLS
+
+<table width="100%" border="0" cellpadding="5" cellspacing="5">
+<tr>
+<td align="center" width="33%" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=c" width="32" height="32" alt="C"/>
+<br>C
+</td>
+<td align="center" width="33%" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=cpp" width="32" height="32" alt="C++"/>
+<br>C++
+</td>
+<td align="center" width="33%" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express"/>
+<br>Express
+</td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git"/>
+<br>Git
+</td>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript"/>
+<br>JavaScript
+</td>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=linux" width="32" height="32" alt="Linux"/>
+<br>Linux
+</td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB"/>
+<br>MongoDB
+</td>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js"/>
+<br>Node.js
+</td>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=python" width="32" height="32" alt="Python"/>
+<br>Python
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+<table width="33%" border="0" cellpadding="5" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#111a22">
+<img src="https://skillicons.dev/icons?i=ts" width="32" height="32" alt="TypeScript"/>
+<br>TypeScript
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+### CURRENT FOCUS
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td bgcolor="#111a22">
+
+🟢 &nbsp; Backend Engineering
+
+<br><br>
+
+🟡 &nbsp; Cyber Security
+
+<br><br>
+
+🟢 &nbsp; Linux Environment
+
+</td>
+</tr>
+</table>
+
+### <code>$ echo "I like cat 😸"</code>
+
 <br>
 
-<h3 align="left">
-  <code>~/connect-with-me</code>
-</h3>
+### CONNECT WITH ME
 
 <p align="left">
-  <a href="https://linkedin.com/in/syauqi rizqullah" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="syauqi rizqullah" />
-  </a>
-  <a href="https://instagram.com/9u6f3" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-F5C2E7?style=for-the-badge&logo=instagram&logoColor=1E1E2E" alt="9u6f3" />
-  </a>
-  <a href="https://medium.com/@vonxc" target="blank">
-    <img src="https://img.shields.io/badge/Medium-A6E3A1?style=for-the-badge&logo=medium&logoColor=1E1E2E" alt="@vonxc" />
-  </a>
+<a href="https://linkedin.com/in/syauqi rizqullah" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/9u6f3" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-F5C2E7?style=for-the-badge&logo=instagram&logoColor=1E1E2E" alt="Instagram"/>
+</a>
+<a href="https://medium.com/@vonxc" target="_blank">
+<img src="https://img.shields.io/badge/Medium-A6E3A1?style=for-the-badge&logo=medium&logoColor=1E1E2E" alt="Medium"/>
+</a>
 </p>
 
-<br>
-
-<h3 align="left">
-  <code>~/languages-and-tools</code>
-</h3>
+<hr>
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
+<sub>$ echo "Never stop learning."</sub>
 </p>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/END_OF_FILE-1E1E2E?style=flat-square&labelColor=313244&color=A6E3A1" alt="End of file" />
-
-</div>
-```
+````
