@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=39D353&vCenter=true&width=400&height=40&lines=root%40vonxcc%3A~%23" alt="Terminal Prompt" />
@@ -135,4 +134,3 @@
 <p align="left">
 <sub>$ echo "Never stop learning."</sub>
 </p>
-````
