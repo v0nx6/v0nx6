@@ -34,7 +34,7 @@
 
 <p align="center">
   <img
-    src="./assets/cats-divider.gif"
+    src="./cats-divider.gif"
     alt="Pixel cats animated divider"
     width="100%"
   />
