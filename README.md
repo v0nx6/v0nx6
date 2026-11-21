@@ -28,7 +28,17 @@
   </picture>
 </p>
 
-<h2><code>root@vonxcc:~# echo "yesterday is history tomorrow is a mystery but today is a gift"</code></h2>
+<h2 align="center">
+  <code>root@vonxcc:~# echo "yesterday is history tomorrow is a mystery but today is a gift"</code>
+</h2>
+
+<p align="center">
+  <img
+    src="./assets/cats-divider.gif"
+    alt="Pixel cats animated divider"
+    width="100%"
+  />
+</p>
 
 </div>
 
