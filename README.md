@@ -6,13 +6,26 @@
 
 <h3 align="left"><code>$ contributions --year</code></h3>
 
+<h3 align="left"><code>$ pacman --run contributions</code></h3>
+
 <p align="center">
-  <img
-    src="https://contribkit.app/user/vonxcc.svg?palette=catppuccin&shape=square&background=transparent"
-    alt="vonxcc GitHub Contributions"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vonxcc/vonxcc/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vonxcc/vonxcc/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/vonxcc/vonxcc/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
 </p>
+
 
 <p>nothing is true everything is permitted</p>
 
