@@ -106,9 +106,3 @@
 </div>
 
 <hr>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-A6E3A1?style=for-the-badge&labelColor=1E1E2E" alt="Learning everyday"/>
-
-</div>
