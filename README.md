@@ -46,12 +46,13 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3><code>$ cat profile.json</code></h3>
+<h3><code>$ fastfetch</code></h3>
 
-<pre><code>{
-  "about": "only student who are interest in becoming backend engginers and cyber security",
-  "fun_fact": "i dont have a funfact 😹"
-}</code></pre>
+<p align="center">
+  <img src="./fastfetch-pixel-clouds.gif"
+       alt="Fastfetch with animated pixel clouds"
+       width="100%" />
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -93,10 +94,9 @@
 
 <hr>
 
-<h3><code>$ fastfetch</code></h3>
+<h3><code>$ cat profile.json</code></h3>
 
-<p align="center">
-  <img src="./fastfetch-pixel-clouds.gif"
-       alt="Fastfetch with animated pixel clouds"
-       width="100%" />
-</p>
+<pre><code>{
+  "about": "only student who are interest in becoming backend engginers and cyber security",
+  "fun_fact": "i dont have a funfact 😹"
+}</code></pre>
