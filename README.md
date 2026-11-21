@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A6E3A1&center=true&vCenter=true&width=400&height=40&lines=root%40vonxcc%3A~%23" alt="Terminal Prompt" />
+<img src="./matrix-header.gif"
+     alt="Matrix Rain - root@vonx"
+     width="100%" />
 
 <h2>Welcome to my profile.</h2>
 
+</div>
+
+<div>
+  
 <p align="center">
   <picture>
     <source
@@ -64,13 +70,11 @@
 
 <h3><code>$ fastfetch</code></h3>
 
-<pre>
- /\_/\
-( o.o )    OS          EndeavourOS x86_64
- > ^ <     KERNEL      Linux 7.2.15-arch1-1
-           SHELL       zsh 5.9.2
-           TERMINAL    Alacritty 0.17.0
-</pre>
+<p align="center">
+  <img src="./fastfetch-pixel-clouds.gif"
+       alt="Fastfetch with animated pixel clouds"
+       width="100%" />
+</p>
 
 <hr>
 
