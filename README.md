@@ -42,9 +42,10 @@
 
 </div>
 
+
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
 <h3><code>$ fastfetch</code></h3>
 
@@ -58,24 +59,24 @@
 
 </td>
 
-<td width="45%" valign="top">
+<td width="35%" valign="top">
 
 <h3>Connect with me:</h3>
 
 <a href="https://linkedin.com/in/syauqi%20rizqullah">
-  <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" height="38" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://instagram.com/9u6f3">
-  <img src="https://img.shields.io/badge/Instagram-F5C2E7?style=for-the-badge&logo=instagram&logoColor=1E1E2E" height="38" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-F5C2E7?style=for-the-badge&logo=instagram&logoColor=1E1E2E" alt="Instagram"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://medium.com/@vonxc">
-  <img src="https://img.shields.io/badge/Medium-A6E3A1?style=for-the-badge&logo=medium&logoColor=1E1E2E" height="38" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-A6E3A1?style=for-the-badge&logo=medium&logoColor=1E1E2E" alt="Medium"/>
 </a>
 
 </td>
