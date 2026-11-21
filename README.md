@@ -29,6 +29,13 @@
 </p>
 
 <h2><code>root@vonxcc:~# echo "yesterday is history tomorrow is a mystery but today is a gift"</code></h2>
+<p align="center">
+  <img
+    src="./cat-running.gif"
+    alt="Cute pixel cat running"
+    width="180"
+  />
+</p>
 
 </div>
 
