@@ -74,8 +74,6 @@
 </tr>
 </table>
 
-<hr>
-
 <h3><code>$ ls languages-and-tools/</code></h3>
 
 <div align="left">
