@@ -78,14 +78,6 @@
 
 <hr>
 
-<h3><code>$ fastfetch</code></h3>
-
-<p align="center">
-  <img src="./fastfetch-pixel-clouds.gif"
-       alt="Fastfetch with animated pixel clouds"
-       width="100%" />
-</p>
-
 <hr>
 
 <h3><code>$ ls languages-and-tools/</code></h3>
@@ -106,3 +98,11 @@
 </div>
 
 <hr>
+
+<h3><code>$ fastfetch</code></h3>
+
+<p align="center">
+  <img src="./fastfetch-pixel-clouds.gif"
+       alt="Fastfetch with animated pixel clouds"
+       width="100%" />
+</p>
