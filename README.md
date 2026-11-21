@@ -12,20 +12,19 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vonxcc/vonxcc/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/v0nx6/v0nx6/output/pacman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vonxcc/vonxcc/output/pacman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/v0nx6/v0nx6/output/pacman-contribution-graph.svg"
     />
     <img
       alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/vonxcc/vonxcc/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/v0nx6/v0nx6/output/pacman-contribution-graph.svg"
       width="100%"
     />
   </picture>
 </p>
-
 
 <p>nothing is true everything is permitted</p>
 
