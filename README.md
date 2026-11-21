@@ -28,7 +28,7 @@
   </picture>
 </p>
 
-<h3 align="center">nothing is true everything is permitted</h3>
+<h2><code>root@vonxcc:~# echo "yesterday is history tomorrow is a mystery but today is a gift"</code></h2>
 
 </div>
 
@@ -98,8 +98,6 @@
 <hr>
 
 <div align="center">
-
-<h2><code>root@vonxcc:~# echo "yesterday is history tomorrow is a mystery but today is a gift"</code></h2>
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-A6E3A1?style=for-the-badge&labelColor=1E1E2E" alt="Learning everyday"/>
 
