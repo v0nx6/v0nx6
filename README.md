@@ -4,7 +4,7 @@
 
 <h2>Welcome to my profile.</h2>
 
-<p>only student who are interest in becoming backend engginers and cyber security</p>
+<p>nothing is true everything is permitted</p>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <pre><code>{
   "about": "only student who are interest in becoming backend engginers and cyber security",
-  "fun_fact": "I like cat 😸"
+  "fun_fact": "i dont have a funfact 😹"
 }</code></pre>
 
 </td>
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<h2><code>root@vonxcc:~# echo "Never stop learning."</code></h2>
+<h2><code>root@vonxcc:~# echo "yesterday is history tomorrow is a mystery but today is a gift"</code></h2>
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-A6E3A1?style=for-the-badge&labelColor=1E1E2E" alt="Learning everyday"/>
 
