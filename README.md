@@ -28,7 +28,7 @@
   </picture>
 </p>
 
-<h3>nothing is true everything is permitted</h3>
+<h3 align="center">nothing is true everything is permitted</h3>
 
 </div>
 
