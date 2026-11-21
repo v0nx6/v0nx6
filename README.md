@@ -54,7 +54,6 @@
        width="100%" />
 </p>
 
-</td>
 <td width="50%" valign="top">
 
 <h3>Connect with me:</h3>
@@ -93,10 +92,3 @@
 </div>
 
 <hr>
-
-<h3><code>$ cat profile.json</code></h3>
-
-<pre><code>{
-  "about": "only student who are interest in becoming backend engginers and cyber security",
-  "fun_fact": "i dont have a funfact 😹"
-}</code></pre>
