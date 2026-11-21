@@ -4,10 +4,6 @@
 
 <h2>Welcome to my profile.</h2>
 
-<h3 align="left"><code>$ contributions --year</code></h3>
-
-<h3 align="left"><code>$ pacman --run contributions</code></h3>
-
 <p align="center">
   <picture>
     <source
