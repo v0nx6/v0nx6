@@ -47,8 +47,6 @@
 <tr>
 <td width="65%" valign="top">
 
-<h3><code>$ fastfetch</code></h3>
-
 <p align="center">
   <img
     src="./fastfetch-pixel-clouds.gif"
