@@ -91,6 +91,8 @@
 <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a>
+<a href="https://neovim.io" target="_blank"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim"/></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burpsuite"/></a>
 </div>
 
 <hr>
