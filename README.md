@@ -22,7 +22,7 @@
   </picture>
 </p>
 
-<p>nothing is true everything is permitted</p>
+<h3>nothing is true everything is permitted</h3>
 
 </div>
 
