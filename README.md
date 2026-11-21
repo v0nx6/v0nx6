@@ -45,7 +45,7 @@
 
 <table width="100%">
 <tr>
-<td width="80%" valign="top">
+<td width="76%" valign="top">
 
 <p align="center">
   <img
