@@ -96,6 +96,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a>
 <a href="https://neovim.io" target="_blank"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim"/></a>
 <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burpsuite"/></a>
+<a href="https://zod.dev" target="_blank"><img src="https://cdn.simpleicons.org/zod" width="40" height="40" alt="zod"/></a>
+<a href="https://mongoosejs.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongoose" width="40" height="40" alt="mongoose"/></a>
 </div>
 
 <hr>
