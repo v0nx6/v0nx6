@@ -98,6 +98,5 @@
 <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burpsuite"/></a>
 <a href="https://zod.dev" target="_blank"><img src="https://cdn.simpleicons.org/zod" width="40" height="40" alt="zod"/></a>
 <a href="https://mongoosejs.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongoose" width="40" height="40" alt="mongoose"/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/npm" width="40" height="40" alt="npm"/></a>
 </div>
-
-<hr>
